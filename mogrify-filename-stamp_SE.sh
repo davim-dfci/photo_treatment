@@ -2,8 +2,6 @@
 
 # label with filename at SE corner, bellow tablet's label
 # and move them to created directory
-
-# David A. Davim
 # 20180802 v1
 
 
